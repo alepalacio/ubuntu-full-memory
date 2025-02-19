@@ -31,16 +31,16 @@ To locate large files consuming disk space, use the following command. This will
 ### 7. Remove Large Files and Folders
 If you find large files or folders that can be deleted, remove them to free up space.
 
-### Clean Temporary Files
+### 8. Clean Temporary Files
 Clean up temporary files that might have accumulated.
 
-### Clear APT Cache (Optional)
+### 9. Clear APT Cache (Optional)
 Clearing the APT cache helps free up additional space by removing cached package files.
 
-### Recheck Disk Usage
+### 10. Recheck Disk Usage
 Check disk usage again to ensure space has been freed.
 
-### Reboot the System
+### 11. Reboot the System
 Finally, reboot the system and surely, your computer will work ok again!!
 
 #### Author
